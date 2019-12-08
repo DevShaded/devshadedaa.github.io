@@ -1,1 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700&display=swap');
 
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.story-title {
+  font-family: 'Open Sans', sans-serif;
+  text-align: left;
+  padding-top: 30px;
+  padding-left: 50px;
+}
