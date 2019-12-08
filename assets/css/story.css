@@ -7,9 +7,17 @@
   padding: 0px;
 }
 
+.header {
+  background-color: black;
+}
+
 .story-title {
   font-family: 'Open Sans', sans-serif;
   text-align: left;
   padding-top: 30px;
-  padding-left: 50px;
+}
+
+.footer {
+  padding-bottom: 50px;
+  padding-left: 100px;
 }
