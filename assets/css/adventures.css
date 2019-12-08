@@ -1,0 +1,18 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.content-title {
+  padding-bottom: 30px;
+  text-align: left;
+}
+
+.h4 {
+  text-align: left;
+  padding-bottom: 30px;
+}
+
+.paragraph-content {
+  text-align: left;
+}
